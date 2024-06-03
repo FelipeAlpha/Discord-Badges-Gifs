@@ -8,6 +8,7 @@ And they make you profile look really cool too soo its that hope you guys like i
 ## Contents List
 
 - [All Badges](#all-discord-profile-badges)
+- [Booster Badges](#booster-badges)
 
 ## All Discord Profile Badges
 
@@ -24,3 +25,5 @@ Verified Moderator | <img width=70 height=70 align="center" src="https://github.
 Ex Verified Moderator | <img width=70 height=70 align="center" src="https://github.com/assets/164407135/02c77a25-89de-4437-b8f5-23ce3a76e150"/> | Verified Moderator turned to that Badge when the Discord Moderator Academy Got close. | Legacy |
 Early Supporter | <img widht=80 height=80 align="center" src="https://github.com/assets/164407135/98ef4319-3827-41a8-8974-82acb44c558f"/> | A Badge awarden for those who buy nitro before October 10,2018 7:20:00 Pm Pdt. | Legacy |
 Partner Server | <img width=80 height=80 align="center" src="https://github.com/assets/164407135/c561e5c8-96b4-42b3-b8a2-0583f8b2ba93"/> | Must be owner of a partner server,it was so requirements to be a partner to get that Badge. | Legacy |
+
+## Booster Badges
