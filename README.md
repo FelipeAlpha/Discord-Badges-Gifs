@@ -39,4 +39,4 @@ All Boosts | <img width=80 height=80 src="https://github.com/assets/164407135/31
 
 | Title | Badge | Description | Rarity |
 |-------|-------|-------------|--------|
-Partner Server | <img width=80 height=80 src="https://github.com/assets/164407135/cdbc66d3-50cc-43b3-b83a-fd3e0c0cd126"> | That badge its was for the people who participated on the programm of partner server,it was some cool benefits and prizes | Legacy |
+Partner Server | <img width=70 height=70 src="https://github.com/assets/164407135/cdbc66d3-50cc-43b3-b83a-fd3e0c0cd126"> | That badge its was for the people who participated on the programm of partner server,it was some cool benefits and prizes | Legacy |
