@@ -29,3 +29,7 @@ Partner Server | <img width=80 height=80 align="center" src="https://github.com/
 HypeSquad | <img width=70 height=70 align="center" src="https://github.com/assets/164407135/72498bf7-fae3-4ff1-a564-2e05ed1a3099"/> | This Badge was for the people who participated on the events of HypeSquad,its no more obtaible to get. | Legacy |
 
 ## Booster Badges
+
+| Title | Badge | Description | Rarity |
+|-------|-------|-------------|--------|
+All Boosts | <img width=120 height=120 src="https://github.com/assets/164407135/31758107-26d4-4292-a51b-80e5081fc02c"> | Its just all boost that have in the Discord,idk if theres all of them but it seems to be all | Boost |
