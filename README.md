@@ -9,6 +9,7 @@ And they make you profile look really cool too soo its that hope you guys like i
 
 - [All Badges](#all-discord-profile-badges)
 - [Booster Badges](#booster-badges)
+- [Server Badges](server-badges)
 
 ## All Discord Profile Badges
 
@@ -32,4 +33,10 @@ HypeSquad | <img width=70 height=70 align="center" src="https://github.com/asset
 
 | Title | Badge | Description | Rarity |
 |-------|-------|-------------|--------|
-All Boosts | <img width=120 height=120 src="https://github.com/assets/164407135/31758107-26d4-4292-a51b-80e5081fc02c"> | Its just all boost that have in the Discord,idk if theres all of them but it seems to be all | Boost |
+All Boosts | <img width=80 height=80 src="https://github.com/assets/164407135/31758107-26d4-4292-a51b-80e5081fc02c"> | Its just all boost that have in the Discord,idk if theres all of them but it seems to be all | Boost |
+
+## Server Badges
+
+| Title | Badge | Description | Rarity |
+|-------|-------|-------------|--------|
+Partner Server | <img width=80 height=80 src="https://github.com/assets/164407135/cdbc66d3-50cc-43b3-b83a-fd3e0c0cd126"> | That badge its was for the people who participated on the programm of partner server,it was some cool benefits and prizes | Legacy |
