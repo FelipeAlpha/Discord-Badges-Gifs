@@ -45,4 +45,3 @@ Partner Server | <img width=60 height=60 src="https://github.com/assets/16440713
 
 | Title | Badge | Description | rarity |
 |-------|-------|-------------|--------|
-.....FG.....Ae.....
