@@ -43,5 +43,10 @@ Partner Server | <img width=60 height=60 src="https://github.com/assets/16440713
 
 ## Servers Badges
 
-| Title | Badge | Description | rarity |
+| Title | Badge | Description | Rarity |
+|-------|-------|-------------|--------|
+
+## Bot Badges
+
+| Title | Badge | Description | Rarity |
 |-------|-------|-------------|--------|
