@@ -49,5 +49,8 @@ Partner Server | <img width=60 height=60 src="https://github.com/assets/16440713
 
 ## Bot Badges
 
+| Title | Badge | Description | Rairty |
+|-------|-------|-------------|--------|
+
 | Title | Badge | Description | Rarity |
 |-------|-------|-------------|--------|
